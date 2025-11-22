@@ -1,47 +1,35 @@
-#  Hi, I'm Tyrell Hullum  
-### AI & Data Science | Computer Vision | Deep Learning | Data Engineering
+# Hi, I'm Tyrell Hullum 👋
 
-🚀 Passionate about building intelligent systems that combine **machine learning, computer vision, and cloud data pipelines**.  
-Currently focusing on **Databricks**, **YOLO object detection**, and **real-world AI applications** that bridge analytics and automation.
+**AI & Data Science | Computer Vision | Databricks | Deep Learning**
 
----
-
-### 🧠 Current Focus
-- 🎓 Completing certifications:
-  - Computer Vision with Deep Learning  
-  - Machine Learning Real-World Projects  
-  - Student Project for Applied Deep Learning  
-  - Databricks Certified Data Engineer Associate (in progress)
-- 🧩 Building end-to-end AI pipelines using Python, OpenCV, and YOLOv8  
-- 🧱 Developing Delta Live Tables and ETL pipelines in Databricks  
-- 🔍 Exploring data governance, risk, and compliance frameworks (NIST, ITIL, COBIT)
+This repo is the starting point for my AI and data engineering portfolio.  
+Right now it mainly holds my Databricks demo files, and I’ll be adding more
+projects here (YOLO object detection, lane detection, Delta Live Tables, etc.).
 
 ---
 
-### 🧰 Tech Stack
-**Languages:** Python, SQL, PowerShell  
-**Frameworks:** PyTorch, TensorFlow, Scikit-learn, OpenCV, YOLOv8  
-**Data & Cloud:** Databricks, Azure, Pandas, Spark, Delta Live Tables  
-**Tools:** GitHub, Jupyter, VS Code, Anaconda, LabelImg, MakeSense.ai  
+## 🔧 Current Contents
+
+- `Demo.dbc` – Exported Databricks demo notebooks (class / practice work)
+
+More structured projects are coming soon as separate folders:
+- `traffic-yolo/` – YOLOv8 traffic object detection (cars, buses, pedestrians)
+- `lane-detection/` – Lane detection using OpenCV
+- `databricks-pipelines/` – Delta Live Tables & Delta Lake pipelines
 
 ---
 
-### 💼 Featured Projects
-| Project | Description | Tech |
-|----------|--------------|------|
-| [🚗 Lane Detection Pipeline](https://github.com/tyrellhullum/lane-detection) | Real-time lane tracking system with color-coded overlays and watermark branding | Python, OpenCV |
-| [🧠 Traffic-YOLO Object Detection](https://github.com/tyrellhullum/traffic-yolo) | Custom YOLOv8 training for detecting cars, buses, and pedestrians in urban videos | YOLOv8, LabelImg |
-| [⚙️ Databricks Delta Pipeline](https://github.com/tyrellhullum/databricks-labs) | Data ingestion and transformation pipeline using Delta Live Tables | Databricks, SQL, Python |
+## 🧰 Tech I’m Working With
+
+- **Languages:** Python, SQL  
+- **Data & ML:** Databricks, PySpark, Delta Lake, YOLOv8, OpenCV  
+- **Tools:** Git, VS Code, Jupyter, Databricks Notebooks  
 
 ---
 
-### 📫 Connect With Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/tyrell-hullum-a06943384/)  
-- 📧 tyrellhullum@gmail.com  
-- 🌐 Coming soon: AI & Data Science Portfolio Website  
+## 📬 Connect
 
----
-
-> 💡 “AI isn’t about replacing people — it’s about expanding what people can do.”
+- **LinkedIn:** https://www.linkedin.com/in/tyrell-hullum-a06943384
+- **GitHub:** https://github.com/tyrell-ai-ml
 
 
