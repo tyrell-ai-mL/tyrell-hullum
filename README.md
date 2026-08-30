@@ -1,164 +1,142 @@
-🚀 Hi, I'm Tyrell Hullum 👋
+# 🚀 Hi, I'm Tyrell O Hullum 👋
 
-AI & Data Science | Computer Vision | Databricks | Deep Learning
+### Computer Science | AI & Data | Computer Vision | Data Engineering | Cloud
 
-Welcome to my portfolio. I'm building intelligent systems that combine YOLO object detection, lane detection, self-driving car behavior cloning, and Databricks data engineering pipelines.
+Welcome to my technical portfolio. I'm a Computer Science student building hands-on projects across artificial intelligence, computer vision, data engineering, cloud technologies, and analytics.
 
-I’m focused on real-world AI, ML Ops, and data engineering that creates impact.
+My work includes YOLO object detection, OpenCV lane detection, self-driving behavior cloning, Snowflake analytics, and Databricks data engineering pipelines.
 
-📂 Current Projects
-🔹 traffic-yolo/ — YOLOv8 Traffic Object Detection
+---
 
-Real-time detection of cars, buses, and pedestrians with custom color-coded bounding boxes and professional overlays.
+## 📂 Featured Projects
 
-Includes:
+### 🚦 Traffic Object Detection — YOLO
 
-labeled_preview_pro.mp4 — Final polished demo
+Computer vision project applying YOLO object detection to real-world street footage.
 
-overlay_rainynight.py — OpenCV/YOLO overlay script
+**Highlights:**
+- Vehicle and traffic-object detection
+- Real-world street footage
+- Custom detection overlays
+- OpenCV video processing
+- Dataset preparation and labeling
+- Model visualization and preprocessing
 
-Frames + labels for the rainy-night dataset
+**Technologies:** Python • YOLO • OpenCV • Computer Vision
 
-Model visualization and preprocessing pipeline
+---
 
-Demo video (rainy-night traffic detection):
-[View labeled_preview_pro.mp4]
+### 🛣️ Lane Detection — OpenCV
 
-🔹 lane-detection/ — Lane Detection using OpenCV
+Computer vision pipeline for detecting roadway lane markings from driving video.
 
-Classic CV pipeline used in self-driving systems.
-Includes:
+**Pipeline:**
+- Grayscale conversion
+- Gaussian blur
+- Canny edge detection
+- Region-of-interest masking
+- Hough Line Transform
+- Lane visualization
 
-Canny edge detection
+**Technologies:** Python • OpenCV • NumPy
 
-Region masking
+---
 
-Hough line transforms
+### 🚗 Self-Driving Car — Behavior Cloning
 
-Overlay pipeline for video output
+Deep-learning project designed to predict vehicle steering angles from driving images using behavioral cloning.
 
-🔹 behavior-cloning/ — Self-Driving Car Steering Model (Keras)
+**Pipeline:**
+- Driving-image ingestion
+- Steering-angle processing
+- Training and validation split
+- Image normalization
+- Convolutional neural network
+- Continuous steering-angle prediction
+- Trained-model export
 
-A neural network trained end-to-end on real driving frames.
-Predicts steering angles using behavioral cloning (Udacity-style project).
+**Technologies:** Python • TensorFlow • Keras • OpenCV • NumPy • Pandas • Scikit-learn
 
-🔹 databricks-pipelines/ — Delta Live Tables & ETL Pipelines
+---
 
-Hands-on data engineering projects using:
+### ❄️ Stock Data Project — Snowflake
 
-Bronze → Silver → Gold pipelines
+Data project demonstrating cloud data processing, SQL analysis, and analytics workflows using Snowflake.
 
-Auto Loader ingestion
+**Focus Areas:**
+- SQL
+- Data processing
+- Data validation
+- Cloud data warehousing
+- Analytics workflows
 
-Delta Lake optimization
+**Technologies:** Snowflake • SQL • Python • Data Engineering
 
-Structured streaming
+---
 
-SQL + PySpark transformations
+### 🧱 Databricks Data Pipelines
 
-Unity Catalog–ready workflows
+Hands-on data engineering work using Databricks and modern lakehouse concepts.
 
-🔹 Demo.dbc — Databricks Notebooks
+**Focus Areas:**
+- Bronze → Silver → Gold architecture
+- Delta Lake
+- Auto Loader
+- Structured Streaming
+- SQL and PySpark transformations
+- Delta Live Tables
+- Data pipeline development
 
-Includes:
+**Technologies:** Databricks • Python • SQL • PySpark • Delta Lake
 
-Delta Live Tables
+---
 
-SQL Warehouses
+## 🛠️ Technical Skills
 
-Data ingestion demos
+### Programming & Data
+Python • SQL • Pandas • NumPy
 
-Hands-on practice notebooks
+### AI & Computer Vision
+YOLO • OpenCV • TensorFlow • Keras • Deep Learning • Object Detection • Behavior Cloning • Lane Detection
 
-🛠 Tech I Work With
-Languages
+### Data Engineering
+Databricks • Snowflake • PySpark • Delta Lake • Auto Loader • Delta Live Tables • ETL Pipelines
 
-Python • SQL
+### Cloud & Analytics
+AWS • Power BI
 
-AI / ML
+### Development Tools
+Git • GitHub • VS Code • Jupyter • Databricks Notebooks
 
-YOLOv8
+---
 
-OpenCV
+## 📈 Currently Developing
 
-TensorFlow & Keras
+- Databricks Data Engineer skills and certification preparation
+- Data engineering and pipeline automation
+- Computer vision and object detection
+- Cloud technologies
+- AI and machine learning
+- Advanced Python and SQL
 
-PyTorch (in progress)
+---
 
-Real-world CV datasets
+## 🎓 Education
 
-Behavior Cloning
+**Bachelor of Science in Computer Science — In Progress**  
+Colorado State University Global
 
-Object Detection
+---
 
-Lane Detection
+## 🎯 Career Interests
 
-Data Engineering
+I'm building toward opportunities in:
 
-Databricks
+- Data Engineering
+- Data Analytics
+- Cloud Engineering
+- AI / Machine Learning
+- Computer Vision
+- Software Development
 
-Delta Lake
-
-PySpark
-
-Auto Loader
-
-DLT (Delta Live Tables)
-
-Data Pipelines (Bronze / Silver / Gold)
-
-SQL Warehouses
-
-MLflow (in progress)
-
-Tools
-
-VS Code
-
-Git/GitHub
-
-Jupyter
-
-Databricks Notebooks
-
-Anaconda
-
-Clipchamp (video processing)
-
-📈 What I’m Focused On Right Now
-
-Strengthening Databricks, PySpark, and pipeline automation
-
-Improving advanced YOLO custom training
-
-Expanding my self-driving car portfolio
-
-Preparing for Data Engineering and AI Engineer roles
-
-Building a clean, professional GitHub that gets recruiters' attention
-
-🤝 Let’s Connect
-
-LinkedIn: https://www.linkedin.com/in/tyrell-hullum-a06943384
-
-GitHub: https://github.com/tyrell-ai-ml
-
-If you're looking for someone who is hands-on, learns fast, and builds real AI/ML pipelines — I’m your guy.
-
-🎯 Hiring Managers & Recruiters
-
-I’m open to:
-
-AI Engineer (Junior/Associate)
-
-Computer Vision Engineer
-
-Data Engineer (Databricks / PySpark)
-
-ML Engineer (Entry-Level)
-
-Data Analyst (Python/SQL)
-
-Remote work opportunities
-
-
+I'm particularly interested in opportunities where I can combine Python, SQL, cloud technologies, data engineering, and AI to solve real-world problems.
