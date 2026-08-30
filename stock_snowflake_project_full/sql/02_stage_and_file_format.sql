@@ -1,0 +1,8 @@
+-- Create an internal stage and file format for CSV uploads
+
+CREATE OR REPLACE STAGE STOCK_STAGE;
+
+CREATE OR REPLACE FILE FORMAT STOCK_CSV_FORMAT
+    TYPE = CSV
+    FIELD_OPTIONALLY_ENCLOSED_BY = '"'
+    SKIP_HEADER = 1;
