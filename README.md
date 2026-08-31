@@ -6,6 +6,24 @@ Welcome to my technical portfolio. I'm a Computer Science student building hands
 
 My work includes YOLO object detection, OpenCV lane detection, self-driving behavior cloning, Snowflake analytics, and Databricks data engineering pipelines.
 
+### ☁️ AWS Serverless Sales Data Pipeline
+
+Built and deployed an event-driven AWS data pipeline for synthetic e-commerce sales data.
+
+**Pipeline:** Amazon S3 → AWS Lambda/Python ETL → Amazon S3 → AWS Glue Data Catalog → Amazon Athena
+
+**Highlights:**
+- Automated CSV processing using an S3 event trigger
+- Python ETL for duplicate removal, data standardization, missing-value handling, and revenue calculation
+- Least-privilege IAM permissions
+- AWS Glue schema discovery and Data Catalog integration
+- Serverless SQL analytics with Amazon Athena
+- End-to-end AWS deployment documented with console screenshots
+
+**Technologies:** AWS S3 • Lambda • Glue • Athena • IAM • Python • SQL
+
+📁 [View AWS Serverless Data Pipeline](aws-serverless-data-pipeline)
+
 ---
 
 ## 📂 Featured Projects
